@@ -1,3 +1,6 @@
 [submodule "Communicate-using-markdown"]
 	path = Communicate-using-markdown
 	url = https://github.com/Sa-Naget/Communicate-using-markdown.git
+[submodule "Nug-s-Introduction-to-Github"]
+	path = Nug-s-Introduction-to-Github
+	url = https://github.com/Sa-Naget/Nug-s-Introduction-to-Github.git
